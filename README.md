@@ -22,17 +22,29 @@ HR 직무를 준비하는 최광빈입니다. 카카오모빌리티 행성지원
 - **반복되는 절차 개선하기:** 입력 이후 점검·취합·알림으로 이어지는 흐름을 만들었습니다.
 - **운영과 인수인계까지 살피기:** 권한 요청, 수정 요청, 사용 안내와 남은 한계를 함께 정리했습니다.
 
-[대시보드 직접 보기](https://poby-ya.github.io/hr-automation-portfolio/#dashboard) · [프로젝트 설명 읽기](https://github.com/Poby-ya/hr-automation-portfolio#readme)
+[대시보드 직접 보기](https://poby-ya.github.io/hr-automation-portfolio/#dashboard) · [프로젝트 설명 읽기](https://github.com/Poby-ya/hr-automation-portfolio/blob/main/README.md)
 
 ## 직접 만든 도구들
 
 일상에서 느낀 불편도 도구로 만들어 사용하며 개선하고 있습니다.
 
-| 도구 | 해결하려는 불편과 만든 기능 | 확인하기 |
-| --- | --- | --- |
-| **영어 읽기 코치** | 영어 글을 읽다 막힌 부분을 확인하고 다시 복습할 수 있도록, 문장 해설과 단어·문장 복습을 연결했습니다. | [설정 없이 샘플 보기](https://poby-ya.github.io/reading-coach/#/read/sample-paper-mars) · [설명](https://github.com/Poby-ya/reading-coach#readme) |
-| **KU 작업실** | 고려대 AI Gateway를 한국어 채팅 화면에서 사용할 수 있도록, 폴더·파일 선택과 작업 모드를 구성했습니다. | [화면과 설명](https://github.com/Poby-ya/ku-workspace-releases#readme) |
-| **PDF 필기** | PDF를 읽으면서 메모하고 그림을 정리할 수 있도록, 필기와 노트 기능을 담았습니다. | [기능과 사용 안내](https://github.com/Poby-ya/pdf-notes-mac-updates#readme) |
+### 영어 읽기 코치
+
+영어 글을 읽다 막힌 부분을 확인하고 다시 복습할 수 있도록, 문장 해설과 단어·문장 복습을 연결했습니다.
+
+[설정 없이 샘플 보기](https://poby-ya.github.io/reading-coach/#/read/sample-paper-mars) · [설명 읽기](https://github.com/Poby-ya/reading-coach/blob/main/README.md)
+
+### KU 작업실
+
+고려대 AI Gateway를 한국어 채팅 화면에서 사용할 수 있도록, 폴더·파일 선택과 작업 모드를 구성했습니다.
+
+[화면과 설명 보기](https://github.com/Poby-ya/ku-workspace-releases/blob/main/README.md)
+
+### PDF 필기
+
+PDF를 읽으면서 메모하고 그림을 정리할 수 있도록, 필기와 노트 기능을 담았습니다.
+
+[기능과 사용 안내 보기](https://github.com/Poby-ya/pdf-notes-mac-updates/blob/main/README.md)
 
 ## AI와 함께 만드는 방식
 
